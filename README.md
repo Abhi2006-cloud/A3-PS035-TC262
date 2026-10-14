@@ -6,6 +6,17 @@
 
 ---
 
+## 🎥 Team Introduction Video
+
+As part of the AIORI-3 hackathon's initial orientation, our team has
+prepared an introduction video presenting our understanding of the
+problem statement, our proposed solution, and the assigned roles
+and responsibilities of each team member.
+
+**▶️ [Watch Our Team Introduction Video](https://youtu.be/nVIh0pni0wo)**
+
+
+Modern operator networks are complex, multi-hop environments.
 ## 1. Problem Statement
 
 Modern operator networks are complex, multi-hop environments. When a physical link fails or a router interface goes down, the failure rarely produces an isolated alarm. Instead, network operations centers (NOCs) are inundated with a cascade of correlated secondary symptoms—including interface state transitions, BGP session drops, routing re-convergence alerts, and active latency/packet loss warnings across adjacent hops.
